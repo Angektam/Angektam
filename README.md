@@ -1,45 +1,70 @@
-# ¡Hola! Soy @Angektam 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=💻+Desarrollador+Apasionado;✨+Creador+de+Soluciones;🚀+Aprendiendo+y+Creciendo+Cada+Día" alt="Texto animado" />
 
-### 🚀 Acerca de Mí
-
-Soy [Tu Rol, e.g., Desarrollador/a Full Stack, Ingeniero/a de Software, Estudiante] con una gran pasión por [Tu área principal de interés, e.g., la arquitectura de software, el desarrollo de APIs escalables, la inteligencia artificial]. Me enfoco en crear soluciones eficientes y elegantes.
-
-👀 **Intereses:**
-- El ecosistema de **[Lenguaje principal, e.g., JavaScript/TypeScript]** y sus frameworks (e.g., React, Vue.js, Node.js).
-- Explorar el mundo de **[Área técnica secundaria, e.g., DevOps, Machine Learning, Ciberseguridad]**.
-- **[Algo personal y único, e.g., La resolución de problemas algorítmicos, el diseño UI/UX]**.
-
-🌱 **Aprendizaje y Crecimiento:**
-- Actualmente estoy profundizando mis conocimientos en **[Tecnología/Framework, e.g., Go, AWS Lambda, Rust]**.
-- Practicando **[Habilidad específica, e.g., Clean Code, pruebas unitarias y de integración]** en mis proyectos.
+  <p>Visitas a este perfil:</p>
+  <img src="https://komarev.com/ghpvc/?username=Angektam&style=flat-square&color=blue" alt="contador de visitas" />
+</div>
 
 ---
 
-### 🛠️ Mis Habilidades
+### 🌟 Lo Esencial
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+👋 Soy **@Angektam**, un [Tu Rol principal, e.g., Ingeniero de Software, Consultor Cloud]. Mi misión es transformar ideas complejas en código limpio y sistemas escalables.
 
----
+🌱 **Actualmente estoy inmerso en:**
+- Construyendo una **API en [Tecnología, e.g., NestJS]** con arquitectura de microservicios.
+- Profundizando en las buenas prácticas de **DevOps** usando **[Herramienta, e.g., Kubernetes]**.
 
-### 🤝 Colaboración y Contacto
-
-💞️ **Estoy buscando colaborar en:**
-- Proyectos de código abierto que involucren **[Tu tecnología favorita]**.
-- Desarrollo de herramientas que resuelvan problemas reales para **[Un nicho, e.g., desarrolladores, pequeñas empresas]**.
-- Desafíos que me permitan aplicar **[Habilidad que quieres mejorar, e.g., la computación en la nube]**.
-
-📫 **¿Cómo contactarme?**
-- **Email:** [tu.correo@ejemplo.com]
-- **LinkedIn:** [Tu Perfil de LinkedIn]
-- **Twitter/X:** [@TuUsuario] (Si lo tienes)
+💡 **Mi filosofía:** La mejor solución es la que combina eficiencia técnica con una excelente experiencia de usuario.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub (Opcional)
+### 🛠️ Tecnologías y Herramientas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angektam&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+Las herramientas con las que construyo el mundo digital.
+
+| Categoría | Tecnologías Principales |
+| :--- | :--- |
+| **Lenguajes** | `JavaScript` `Python` `TypeScript` `Go` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` |
+| **Backend/Cloud** | `Node.js` `AWS` `Docker` `Serverless` |
+| **Bases de Datos** | `PostgreSQL` `MongoDB` `Redis` |
+
+<div align="center">
+  <img alt="skills" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,docker,postgres,git&theme=dark" />
+</div>
+
+---
+
+### 📈 Actividad y Contribuciones Recientes
+
+<details>
+  <summary>Haz clic para ver más detalles de mi actividad</summary>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angektam&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de contribuciones" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Angektam&layout=compact&theme=radical" alt="Estadísticas de WakaTime" />
+</details>
+
+---
+
+### 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Angektam&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trofeos de GitHub" />
+</div>
+
+---
+
+### 🤝 Conectemos
+
+💞️ **Colaboración:** Me interesa participar en proyectos que involucren [Área específica] o que busquen [Objetivo]. ¡Abre un *issue* o envíame un mensaje!
+
+📫 **Contacto:**
+
+- 📧 **Correo:** [tu.correo@ejemplo.com]
+- 🔗 **LinkedIn:** [Tu Perfil de LinkedIn]
+- 🐦 **Twitter/X:** [@TuUsuario]
+
+<br/>
+<p align="center">Hecho con 💜 y Markdown.</p>
