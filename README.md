@@ -53,9 +53,9 @@ Las herramientas con las que construyo el mundo digital.
 
 📫 **Contacto:**
 
-- 📧 **Correo:** [tu.correo@ejemplo.com]
+- 📧 **Correo:** [angek23412@gmail.com]
 - 🔗 **LinkedIn:** [Tu Perfil de LinkedIn]
-- 🐦 **Twitter/X:** [@TuUsuario]
+  
 
 <br/>
 <p align="center">Hecho con 💜 y Markdown.</p>
