@@ -46,15 +46,6 @@ Las herramientas con las que construyo el mundo digital.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Angektam&layout=compact&theme=radical" alt="Estadísticas de WakaTime" />
 </details>
 
----
-
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angektam&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trofeos de GitHub" />
-</div>
-
----
 
 ### 🤝 Conectemos
 
