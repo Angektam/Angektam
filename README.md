@@ -1,69 +1,29 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931A&width=435&lines=💻+Desarrollador+Full+Stack+%26+IoT;✨+Transformando+Ideas+en+Código;🚀+Innovando+con+Hardware+y+Web" alt="Texto animado" />
 
-  <p>Visitas a este perfil:</p>
-  <img src="https://komarev.com/ghpvc/?username=Angektam&style=flat-square&color=blue" alt="contador de visitas" />
-</div>
 
 ---
 
-### 🌟 Lo Esencial
+## 🗂️ Repositorios organizados
 
-👋 Soy **@Angektam** (Ángel Gabriel Flores Guevara), **Ingeniero de Software y Desarrollador Full Stack / IoT**. Me apasiona transformar problemas complejos en código limpio, arquitecturas sólidas e integraciones funcionales de hardware y software.
+### 🚀 Proyectos actuales
+- [Computo-en-la-nube--Servidor](https://github.com/Angektam/Computo-en-la-nube--Servidor) — aplicación web, AWS y despliegue cloud.
+- [Tesis-Moodle-plugin-](https://github.com/Angektam/Tesis-Moodle-plugin-) — plugin para Moodle.
+- [Diagramador-German](https://github.com/Angektam/Diagramador-German) — proyecto TypeScript.
+- [Lotus-Notes](https://github.com/Angektam/Lotus-Notes) y [Lotus-Notes-y-Lotus-Domino.](https://github.com/Angektam/Lotus-Notes-y-Lotus-Domino.) — proyectos Lotus.
 
-🌱 **Actualmente estoy inmerso en:**
-- Desarrollo de soluciones web integrales con **Angular, PHP, Python y TypeScript**.
-- Proyectos de **IoT y sistemas embebidos** utilizando microcontroladores **ESP32 y Arduino** (C++ / MicroPython).
-- Integración de plataformas educativas e IA aplicada, modelado de bases de datos relacionales y diseño de módulos a medida.
+### 🌐 Proyectos web
+- [Desarrollo-de-un-sitio-web-personalizado-para-los-voluntarios-del-Servicio-Social.](https://github.com/Angektam/Desarrollo-de-un-sitio-web-personalizado-para-los-voluntarios-del-Servicio-Social.)
+- [Cerveza-Premium-2](https://github.com/Angektam/Cerveza-Premium-2) · [telefonos.pag.web](https://github.com/Angektam/telefonos.pag.web)
+- [ANA-ROPA](https://github.com/Angektam/ANA-ROPA) · [WEB-ROPA](https://github.com/Angektam/WEB-ROPA) · [Gr-as-DBACK](https://github.com/Angektam/Gr-as-DBACK)
+- [Angektam.gitgub.io](https://github.com/Angektam/Angektam.gitgub.io)
 
-💡 **Mi filosofía:** La mejor solución es la que equilibra la robustez técnica del backend/hardware con una experiencia de usuario intuitiva y eficiente.
+### 📚 Académicos y aprendizaje
+- [PowerShell](https://github.com/Angektam/PowerShell) · [Lenguajes-de-Programaci-n-](https://github.com/Angektam/Lenguajes-de-Programaci-n-) · [progrmas--varios](https://github.com/Angektam/progrmas--varios)
+- [pagina-web](https://github.com/Angektam/pagina-web) · [unidad1](https://github.com/Angektam/unidad1) · [unidad1nomas](https://github.com/Angektam/unidad1nomas)
+- [refactor-de-codigo-practicas](https://github.com/Angektam/refactor-de-codigo-practicas) · [server-setup](https://github.com/Angektam/server-setup)
 
----
+### 🕰️ Proyectos antiguos
+- [MC-server](https://github.com/Angektam/MC-server) · [MC-server-2](https://github.com/Angektam/MC-server-2) · [mcmineraft](https://github.com/Angektam/mcmineraft)
+- [punto-de-venta](https://github.com/Angektam/punto-de-venta) · [cajero-automatico](https://github.com/Angektam/cajero-automatico)
+- [clases-todo-los-trabajos-](https://github.com/Angektam/clases-todo-los-trabajos-) · [sizeof](https://github.com/Angektam/sizeof) · [desktop-tutorial](https://github.com/Angektam/desktop-tutorial)
 
-### 🛠️ Tecnologías y Herramientas
-
-Las herramientas con las que construyo soluciones digitales y de hardware:
-
-| Categoría | Tecnologías Principales |
-| :--- | :--- |
-| **Lenguajes** | `Python` `TypeScript` `JavaScript` `C++` `PHP` `Bash` `PowerShell` |
-| **Frontend** | `Angular` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` |
-| **Backend & IoT** | `ESP32` `Arduino` `MicroPython` `Node.js` `REST APIs` |
-| **Bases de Datos** | `MySQL` `PostgreSQL` `SQLite` `SQL Server` |
-| **Dev & Entornos** | `Git` `GitHub` `Linux` `VS Code` `Postman` |
-
-<div align="center">
-  <img alt="skills" src="https://skillicons.dev/icons?i=py,ts,js,cpp,php,angular,html,css,mysql,postgres,sqlite,arduino,bash,git,linux,vscode&theme=dark" />
-</div>
-
----
-
-### 📈 Actividad y Métricas
-
-<details>
-  <summary><b>Haz clic para ver más detalles de mi actividad</b></summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angektam&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de contribuciones" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Angektam&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-  </p>
-</details>
-
----
-
-### 🤝 Conectemos
-
-💞️ **Colaboración:** Me interesa participar en proyectos que involucren **IoT, automatización, desarrollo web frontend/backend** o integraciones de software con impacto comunitario y educativo. ¡Abre un *issue*, un *pull request* o contáctame directamente!
-
-📫 **Contacto:**
-
-- 📧 **Correo:** [angek23412@gmail.com](mailto:angek23412@gmail.com)
-- 💼 **Perfil Profesional:** [Mi Perfil en Indeed](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage)
-- 🐙 **GitHub:** [@Angektam](https://github.com/Angektam)
-
-<br/>
-<p align="center">Hecho con 💜 y Markdown.</p>
+> Los repositorios privados se mantienen privados y los proyectos antiguos se conservan sin eliminarse.
