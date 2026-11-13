@@ -26,6 +26,7 @@ Actualmente trabajo con soluciones web, IoT, sistemas embebidos, plataformas edu
 
 ### 🚀 Proyectos actuales
 
+- [Angektam](https://github.com/Angektam/Angektam) — perfil y catálogo de proyectos.
 - [Computo-en-la-nube--Servidor](https://github.com/Angektam/Computo-en-la-nube--Servidor) — aplicación web, AWS y despliegue cloud.
 - [Tesis-Moodle-plugin-](https://github.com/Angektam/Tesis-Moodle-plugin-) — plugin para Moodle.
 - [Diagramador-German](https://github.com/Angektam/Diagramador-German) — proyecto TypeScript.
@@ -36,6 +37,7 @@ Actualmente trabajo con soluciones web, IoT, sistemas embebidos, plataformas edu
 - [Desarrollo-de-un-sitio-web-personalizado-para-los-voluntarios-del-Servicio-Social.](https://github.com/Angektam/Desarrollo-de-un-sitio-web-personalizado-para-los-voluntarios-del-Servicio-Social.)
 - [Cerveza-Premium-2](https://github.com/Angektam/Cerveza-Premium-2) · [telefonos.pag.web](https://github.com/Angektam/telefonos.pag.web)
 - [ANA-ROPA](https://github.com/Angektam/ANA-ROPA) · [WEB-ROPA](https://github.com/Angektam/WEB-ROPA) · [Gr-as-DBACK](https://github.com/Angektam/Gr-as-DBACK)
+- [telefono](https://github.com/Angektam/telefono) — privado.
 - [Angektam.gitgub.io](https://github.com/Angektam/Angektam.gitgub.io)
 
 ### 📚 Académicos y aprendizaje
